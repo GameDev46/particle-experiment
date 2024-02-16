@@ -1,12 +1,12 @@
 <a href="https://github.com/GameDev46" title="Go to GitHub repo">
-    <img src="https://img.shields.io/static/v1?label=GameDev46&message=Profile&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - particle-experiment">
+    <img src="https://img.shields.io/static/v1?label=GameDev46&message=|&color=Green&logo=github&style=for-the-badge&labelColor=1f1f22" alt="GameDev46 - particle-experiment">
     <img src="https://img.shields.io/badge/Version-1.1.3-green?style=for-the-badge&labelColor=1f1f22&color=Green" alt="GameDev46 - particle-experiment">
 </a>
 
 
-![Static Badge](https://img.shields.io/badge/-HTML5-1f1f22?style=for-the-badge&logo=HTML5)
-![Static Badge](https://img.shields.io/badge/-CSS-1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
-![Static Badge](https://img.shields.io/badge/-JavaScript-1f1f22?style=for-the-badge&logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=HTML5)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=CSS3&logoColor=6060ef)
+![Static Badge](https://img.shields.io/badge/--1f1f22?style=for-the-badge&logo=JavaScript)
     
 <a href="https://github.com/GameDev46/particle-experiment/stargazers">
     <img src="https://img.shields.io/github/stars/GameDev46/particle-experiment?style=for-the-badge&labelColor=1f1f22" alt="stars - particle-experiment">
@@ -17,17 +17,6 @@
 <a href="https://github.com/GameDev46/particle-experiment/issues">
     <img src="https://img.shields.io/github/issues/GameDev46/particle-experiment?style=for-the-badge&labelColor=1f1f22&color=blue"/>
  </a>
-
-<br>
-<br>
-
-<a href="https://github.com/GameDev46/particle-experiment/releases/">
-    <img src="https://img.shields.io/github/tag/GameDev46/particle-experiment?include_prereleases=&sort=semver&color=Green&style=for-the-badge&labelColor=1f1f22" alt="GitHub tag">
-</a>
-
-<a href="https://github.com/GameDev46/particle-experiment/issues">
-    <img src="https://img.shields.io/github/issues/GameDev46/particle-experiment?style=for-the-badge&labelColor=1f1f22" alt="issues - particle-experiment">
-</a>
 
 <br>
 <br>
@@ -69,8 +58,4 @@ Every particle in the scene is either gravitationally attracted, reppeled or not
 **Drag**: Controls the amount of velocity lost by the particles to friction, the larger the number the more energy that is lost (This helps to control the particles)
 
 **Particle Matrix**: Clicking this button will toggle the particle matrix. The attraction matrix represents the strengths of the attractions between each of the coloured particles and the mass matrix represents the mass of each of the coloured particles
-
-# Website
-
-You can try out the program [here, on its website](https://gamedev46.github.io/particle-experiment/) or simply download the repository and run it locally on your device, the choice is yours!
 
