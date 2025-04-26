@@ -13,10 +13,8 @@
 /* 
 	AUTHOR: GameDev46
 
-	replit: https://replit.com/@GameDev46
-	youtube: https://www.youtube.com/@gamedev46
-	twitter: https://twitter.com/GameDev46
-	github: https://github.com/GameDev46
+	Youtube: https://www.youtube.com/@gamedev46
+	Github: https://github.com/GameDev46
 */
 
 let piCollide = {
@@ -197,7 +195,7 @@ let piCollide = {
 
 			// Apply gravity to object
 
-			this.objects[x].velocity.y += this.gravity * this.objects[x].mass * delta;
+			this.objects[x].velocity.y += this.gravity * delta;
 
 			// Add on drag to velocities
 
